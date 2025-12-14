@@ -2,7 +2,7 @@
 
 ![ForgeLinux Logo](ForgeLinux.jpg)
 
-**ForgeLinux** is a customizable Arch Linux ISO builder based on the [KIRO](https://github.com/kirodubes) project. It provides a simple way to build your own Arch-based installation medium with your choice of packages, settings, and scripts. Compare the configs and search for references like ArcoLinux, arcolinux, kiro, arconet and ArcoNet and change them to ForgeLinux in this case. Use tools like rg (from ripgrep) and meld to compare.
+**ForgeLinux** is a customizable Arch Linux ISO builder based on the [ForgeLinux](https://github.com/ForgeLinux) project. It provides a simple way to build your own Arch-based installation medium with your choice of packages, settings, and scripts. Compare the configs and search for references like ArcoLinux, arcolinux, ForgeLinux, arconet and ArcoNet and change them to ForgeLinux in this case. Use tools like rg (from ripgrep) and meld to compare.
 
 ## 🚀 Features
 

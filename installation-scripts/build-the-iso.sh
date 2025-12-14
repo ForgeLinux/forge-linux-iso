@@ -117,16 +117,16 @@ echo
 	#Let us set the desktop"
 	#First letter of desktop is small letter
 
-	desktop="plasma"
+	desktop="xfce"
 
-	buildraVersion='v25.12.14.01'
+	forgeLinuxVersion='v25.12.14.01'
 
-	isoLabel='buildra-'$buildraVersion'-x86_64.iso'
+	isoLabel='forgelinux-'$forgelinuxVersion'-x86_64.iso'
 
 	# setting of the general parameters
 	archisoRequiredVersion="archiso 83-1"
-	buildFolder=$HOME"/buildra-build"
-	outFolder=$HOME"/buildra-Out"
+	buildFolder=$HOME"/forgelinux-build"
+	outFolder=$HOME"/forgelinux-Out"
 
 	# If you want to add packages from the chaotics-aur repo then
 	# change the variable to true and add the package names
@@ -244,7 +244,7 @@ echo
 	tput sgr0
 	echo "################################################################## "
 	echo "Building the desktop                   : "$desktop
-	echo "Building version                       : "$buildraVersion
+	echo "Building version                       : "$forgelinuxVersion
 	echo "Iso label                              : "$isoLabel
 	echo "Build folder                           : "$buildFolder
 	echo "Out folder                             : "$outFolder
