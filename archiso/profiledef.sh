@@ -1,11 +1,11 @@
 #!/usr/bin/env bash
 # shellcheck disable=SC2034
 
-iso_name="buildra"
-iso_label="buildra-v25.12.14.01"
-iso_publisher="buildra"
-iso_application="buildra Live/Rescue CD"
-iso_version="v25.12.14.01"
+iso_name="forgelinux"
+iso_label="forgelinux-v25.12.15.01"
+iso_publisher="forgelinux"
+iso_application="forgelinux Live/Rescue CD"
+iso_version="v25.12.15.01"
 install_dir="arch"
 buildmodes=('iso')
 bootmodes=('bios.syslinux.mbr' 'bios.syslinux.eltorito'

@@ -392,8 +392,8 @@ yay-git
 
 #calamares
 calamares-wayland
-buildra-calamares-config
-buildra-system-installation
+forgelinux-calamares-config
+forgelinux-system-installation
 
 adobe-source-han-sans-jp-fonts
 adobe-source-han-sans-kr-fonts
